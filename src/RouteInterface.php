@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Lex\Router;
+namespace Lex\Yii2\Router;
 
 interface RouteInterface
 {

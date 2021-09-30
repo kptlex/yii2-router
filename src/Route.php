@@ -2,9 +2,8 @@
 
 declare(strict_types=1);
 
-namespace Lex\Router\Yii2;
+namespace Lex\Yii2\Router;
 
-use Lex\Router\RouteInterface;
 use yii\web\UrlRule;
 
 final class Route implements RouteInterface

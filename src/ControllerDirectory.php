@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Lex\Router\Yii2;
+namespace Lex\Yii2\Router;
 
 use Psr\Http\Message\ResponseInterface;
 use Psr\Http\Message\ServerRequestInterface;

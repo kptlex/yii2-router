@@ -1,10 +1,10 @@
 {
-  "name": "kptlex/router",
+  "name": "kptlex/yii2-router",
   "type": "library",
   "license": "MIT",
   "autoload": {
     "psr-4": {
-      "Lex\\Router\\": "src/"
+      "Lex\\Yii2\\Router\\": "src/"
     }
   },
   "authors": [
