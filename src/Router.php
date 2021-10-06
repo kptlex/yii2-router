@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace Lex\Yii2\Router;
 
 use Yii;
-use yii\helpers\ArrayHelper;
+use Yiisoft\Arrays\ArrayHelper;
 use yii\web\UrlRule;
 
 final class Router implements RouterInterface

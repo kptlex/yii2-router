@@ -14,5 +14,8 @@
     }
   ],
   "minimum-stability": "dev",
-  "require": {}
+  "require": {
+    "php": ">=7.4",
+    "yiisoft/arrays": "^1.0"
+  }
 }
